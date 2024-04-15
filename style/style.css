@@ -4,3 +4,34 @@
 .font-anton{
     font-family: "Anton", sans-serif;
 }
+
+.kbd{
+    width: 55.639px;
+    height: 52.162px;
+    flex-shrink: 0;
+    background-color: white !important;
+    color: #010313;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20.865px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 25.038px */
+    margin: 6px 0px;
+}
+.kbd:hover{
+    background-color: #FFA500 !important;
+    
+}
+
+
+.playBtn:hover{
+    color: white;
+    background-color: black;
+}
+
+.scoreEndPage{
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    background: linear-gradient(121deg, rgba(255, 255, 255, 0.56) 0%, rgba(152, 151, 151, 0.00) 102.2%);
+}
