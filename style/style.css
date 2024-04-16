@@ -19,10 +19,10 @@
     line-height: 120%; /* 25.038px */
     margin: 6px 0px;
 }
-.kbd:hover{
+/* .kbd:hover{
     background-color: #FFA500 !important;
     
-}
+} */
 
 
 .playBtn:hover{
@@ -34,4 +34,8 @@
     border-radius: 16px;
     border: 1px solid rgba(255, 255, 255, 0.20);
     background: linear-gradient(121deg, rgba(255, 255, 255, 0.56) 0%, rgba(152, 151, 151, 0.00) 102.2%);
+}
+
+.keyColor{
+    background-color: #FFA500 !important;
 }
